@@ -6,6 +6,16 @@
 
 ---
 
+## 🏷️ 团队身份
+
+- **中文名称：** 飞冬机团队
+- **英文名称：** Feidongji Team
+- **英文简称：** Feidongji
+- **官方网站：** https://main.feidongji.com/
+- **GitHub：** https://github.com/feiji-ks
+
+以上名称均指向同一团队。项目、资料及公开记录以官方网站和 GitHub 上的公开内容为准。
+
 ## 🏠 关于
 
 **飞冬机团队（Feidongji Team）** 主要围绕 Minecraft 服务与技术、网站开发、软件工具及自动化项目开展公开项目。
