@@ -1,30 +1,54 @@
-# 飞冬机团队
+# 飞冬机团队 · Feidongji Team
 
-**飞冬机团队（Feidongji Team）** 是一个以 Minecraft、软件与网站项目为主要方向的团队。
+> 飞冬机团队（Feidongji Team）是一个以 Minecraft、网站、软件与自动化项目为主要方向的团队。
 
-## 官方信息
+[官方网站](https://main.feidongji.com/) · [GitHub](https://github.com/feiji-ks)
 
-- 官方网站：https://main.feidongji.com/
-- GitHub：https://github.com/feiji-ks
-- 本资料仓库：https://github.com/feiji-ks/feidongji-teams
+---
 
-## 项目方向
+## 🏠 关于
 
-目前公开项目与服务方向包括：
+**飞冬机团队（Feidongji Team）** 主要围绕 Minecraft 服务与技术、网站开发、软件工具及自动化项目开展公开项目。
 
-- Minecraft 服务器及相关服务
-- Minecraft 技术支持与帮助
-- 网站开发与维护
-- 软件及自动化相关项目
+本仓库是团队的公开资料仓库，用于整理团队简介、项目方向、官方链接及公开记录。
 
-## 关于本仓库
+## 🧩 项目方向
 
-本仓库用于公开保存飞冬机团队的基础资料、项目说明及相关文档。
+| 方向 | 内容 |
+| --- | --- |
+| Minecraft | 服务器、相关工具与技术支持 |
+| Web | 网站开发、维护及相关 Web 项目 |
+| 软件 | 软件工具及实用程序 |
+| 自动化 | 自动化程序与相关技术项目 |
 
-仓库内容以公开资料为准。重要资料通过 Git 提交历史保留版本记录；如需引用，请同时参考官方网页及对应项目页面。
+> 具体项目以各项目仓库及官方网站公开信息为准。
 
-## 官方网站
+## 📚 团队资料
 
-如需了解最新信息，请以飞冬机团队官方网站为准：
+- [团队介绍](docs/about.md)
+- [项目方向](docs/projects.md)
+- [官方链接](docs/links.md)
+- [公开记录](docs/history.md)
 
+## 🌐 官方信息
+
+**官方网站：**  
 https://main.feidongji.com/
+
+**GitHub：**  
+https://github.com/feiji-ks
+
+**团队资料仓库：**  
+https://github.com/feiji-ks/feidongji-teams
+
+## 📌 关于资料
+
+本仓库中的资料以实际公开内容为准。
+
+团队信息、项目内容及公开链接会根据实际情况持续更新。重要资料保留在 Git 提交历史中，便于查看公开资料的版本变化。
+
+---
+
+### 飞冬机 · Feidongji
+
+**Minecraft · Web · Software · Automation**
