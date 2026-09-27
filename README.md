@@ -1,6 +1,6 @@
-# 飞冬机团队 · Feidongji Team
+# 飞冬机团队 · Feidongji
 
-> 飞冬机团队（Feidongji Team）是一个以 Minecraft、网站、软件与自动化项目为主要方向的团队。
+> 飞冬机团队（Feidongji）是一个以 Minecraft、网站、软件与自动化项目为主要方向的团队。
 
 [官方网站](https://main.feidongji.com/) · [GitHub](https://github.com/feiji-ks)
 
@@ -9,8 +9,7 @@
 ## 🏷️ 团队身份
 
 - **中文名称：** 飞冬机团队
-- **英文名称：** Feidongji Team
-- **英文简称：** Feidongji
+- **英文名称：** Feidongji
 - **官方网站：** https://main.feidongji.com/
 - **GitHub：** https://github.com/feiji-ks
 
