@@ -2,7 +2,7 @@
 
 > **飞冬机团队/Feidongji** 是一个围绕互联网技术、编程与游戏开展项目的团队，成立于 2025 年。
 
-[官方网站](https://main.feidongji.com/) 
+[官方网站](https://feidongji.com/) 
 
 ---
 
